@@ -1,0 +1,53 @@
+services:
+  camunda:
+    build:
+      context: /camunda
+      dockerfile: Dockerfile
+    networks:
+      - factory
+    ports:
+      - "8080:8080"
+
+  inventory:
+    build:
+      context: /inventory
+      dockerfile: Dockerfile
+    networks:
+      - factory
+    ports:
+      - "8081:8081"
+
+  order:
+    build:
+      context: /order
+      dockerfile: Dockerfile
+    networks:
+      - factory
+    ports:
+      - "8082:8082"
+
+  nfcdetector:
+    build:
+      context: /nfcdetector
+      dockerfile: Dockerfile
+    networks:
+      - factory
+    ports:
+      - "8083:8083"
+    depends_on:
+      - camunda
+
+  stations:
+    build:
+      context: /stations
+      dockerfile: Dockerfile
+    networks:
+      - factory
+    ports:
+      - "8084:8084"
+    depends_on:
+      - camunda
+
+networks:
+  factory:
+    driver: bridge

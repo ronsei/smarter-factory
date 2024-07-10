@@ -1,0 +1,307 @@
+{'f/o/order': '{"type":"BLUE","ts":"2020-12-11T12:18:44.448Z"}'}
+{'f/i/order': '{ "state" : "ORDERED", "ts" : "2020-12-11T12:18:44.662Z", "type" : "BLUE" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:18:44.791Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:18:44.809Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:18:44.854Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:18:44.887Z" }'}
+{'f/i/order': '{ "state" : "ORDERED", "ts" : "2020-12-11T12:18:44.662Z", "type" : "BLUE" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:18:44.791Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:18:44.809Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:18:44.854Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:18:44.887Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:18:46.457Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:18:46.457Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:18:49.085Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:18:49.085Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:18:49.918Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:18:49.939Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:18:50.126Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:18:49.918Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:18:49.939Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:18:50.126Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:18:54.726Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:18:54.771Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:18:54.726Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:18:54.771Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:18:56.260Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:18:56.260Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:18:56.486Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:18:56.486Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:18:59.195Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:18:59.195Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:00.162Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:19:00.056Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:19:00.310Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:00.162Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:19:00.056Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:19:00.310Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:19:06.560Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:19:06.560Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:19:09.240Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:19:09.240Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:10.409Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:19:10.326Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:19:10.455Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:10.409Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:19:10.326Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:19:10.455Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:19:16.655Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:19:16.655Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:18.967Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:18.967Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:19:19.242Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:19:19.242Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:19:19.443Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:19:20.173Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:19:19.443Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:19:20.173Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:19:20.467Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:20.560Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:19:20.666Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:19:20.467Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:20.560Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:19:20.666Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:19:22.257Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:19:22.257Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:19:23.415Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:19:23.604Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:19:23.415Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:19:23.604Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:19:24.949Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:25.042Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:25.059Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:25.074Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "hbw", "ts" : "2020-12-11T12:19:24.949Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:19:25.157Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:25.042Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:25.059Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:25.074Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:19:25.157Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:26.883Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:26.883Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:19:29.646Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:19:29.646Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:19:30.624Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:30.692Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:19:30.797Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:31.276Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:19:30.624Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:30.692Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:19:30.797Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:31.330Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:31.276Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:31.330Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:34.578Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:34.578Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:37.048Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:37.048Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:19:39.667Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:19:39.667Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:40.817Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:19:40.774Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:19:40.962Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:40.817Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:19:40.774Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:19:40.962Z" }'}
+{'f/i/order': '{ "state" : "IN_PROCESS", "ts" : "2020-12-11T12:19:45.749Z", "type" : "BLUE" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:46.103Z" }'}
+{'f/i/order': '{ "state" : "IN_PROCESS", "ts" : "2020-12-11T12:19:45.749Z", "type" : "BLUE" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:46.103Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:47.085Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:47.085Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:19:49.708Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:19:49.708Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:19:50.968Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:51.054Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:19:51.085Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:19:50.968Z" }'}
+{'f/i/state/mpo': '{ "active" : 1, "code" : 2, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:19:51.193Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:51.054Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:19:51.085Z" }'}
+{'f/i/state/mpo': '{ "active" : 1, "code" : 2, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:19:51.193Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:51.816Z" }'}
+{'f/i/state/dsi': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dsi", "ts" : "2020-12-11T12:19:51.864Z" }'}
+{'f/i/state/dso': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dso", "ts" : "2020-12-11T12:19:51.948Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:51.816Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:51.991Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:52.126Z" }'}
+{'f/i/state/dsi': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dsi", "ts" : "2020-12-11T12:19:51.864Z" }'}
+{'f/i/state/dso': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dso", "ts" : "2020-12-11T12:19:51.948Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:51.991Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:52.236Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:52.286Z" }'}
+{'f/i/state/dsi': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dsi", "ts" : "2020-12-11T12:19:52.414Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:52.126Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:52.467Z" }'}
+{'f/i/state/dso': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dso", "ts" : "2020-12-11T12:19:52.488Z" }'}
+{'f/i/state/dsi': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dsi", "ts" : "2020-12-11T12:19:52.581Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:52.236Z" }'}
+{'f/i/state/dso': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dso", "ts" : "2020-12-11T12:19:52.663Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:52.286Z" }'}
+{'f/i/state/dsi': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dsi", "ts" : "2020-12-11T12:19:52.414Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:19:52.467Z" }'}
+{'f/i/state/dso': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dso", "ts" : "2020-12-11T12:19:52.488Z" }'}
+{'f/i/state/dsi': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dsi", "ts" : "2020-12-11T12:19:52.581Z" }'}
+{'f/i/state/dso': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dso", "ts" : "2020-12-11T12:19:52.663Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:57.264Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:19:57.264Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:19:59.921Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:19:59.921Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:01.020Z" }'}
+{'f/i/state/mpo': '{ "active" : 1, "code" : 2, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:20:01.028Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:01.097Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:01.020Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:01.179Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:20:01.245Z" }'}
+{'f/i/state/mpo': '{ "active" : 1, "code" : 2, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:20:01.028Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:01.307Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:01.097Z" }'}
+{'f/i/state/hbw': '{ "active" : 1, "code" : 2, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:01.179Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:01.359Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:20:01.440Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:20:01.245Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:01.307Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:01.359Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:20:01.440Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:20:07.353Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:20:07.353Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:20:10.291Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:20:10.291Z" }'}
+{'f/i/state/mpo': '{ "active" : 1, "code" : 2, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:20:11.102Z" }'}
+{'f/i/state/mpo': '{ "active" : 1, "code" : 2, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:20:11.102Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:11.307Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:20:11.376Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:11.307Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:20:11.376Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:20:17.508Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:20:17.508Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:20:20.433Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:20:20.433Z" }'}
+{'f/i/state/mpo': '{ "active" : 1, "code" : 2, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:20:21.123Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:21.520Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:20:21.584Z" }'}
+{'f/i/state/mpo': '{ "active" : 1, "code" : 2, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:20:21.123Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:21.520Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:20:21.584Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:20:27.720Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:20:27.720Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:20:30.543Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:20:30.543Z" }'}
+{'f/i/state/mpo': '{ "active" : 1, "code" : 2, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:20:31.333Z" }'}
+{'f/i/state/mpo': '{ "active" : 1, "code" : 2, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:20:31.333Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:31.813Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:20:32.094Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:31.813Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:20:32.094Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:20:37.006Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:20:37.006Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:20:37.772Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "mpo", "ts" : "2020-12-11T12:20:37.772Z" }'}
+{'f/i/state/sld': '{ "active" : 1, "code" : 2, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:20:39.645Z" }'}
+{'f/i/state/sld': '{ "active" : 1, "code" : 2, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:20:39.645Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:20:40.391Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:20:40.391Z" }'}
+{'f/i/state/sld': '{ "active" : 1, "code" : 2, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:20:40.563Z" }'}
+{'f/i/state/sld': '{ "active" : 1, "code" : 2, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:20:40.563Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:20:41.464Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:20:41.464Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:42.170Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:42.170Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:20:42.248Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:20:42.248Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:20:42.925Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:20:42.925Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:20:43.451Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:20:43.479Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:20:43.451Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:20:43.479Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:20:44.092Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:20:44.092Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:20:45.850Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:20:45.954Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:20:45.850Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:20:45.954Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:20:47.839Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:20:47.839Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:20:49.481Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:20:49.481Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:20:50.576Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:20:50.576Z" }'}
+{'f/i/state/dsi': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dsi", "ts" : "2020-12-11T12:20:51.623Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:20:51.630Z" }'}
+{'f/i/state/dso': '{ "active" : 1, "code" : 1, "description" : "", "station" : "dso", "ts" : "2020-12-11T12:20:51.872Z" }'}
+{'f/i/state/dsi': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dsi", "ts" : "2020-12-11T12:20:51.623Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:20:51.630Z" }'}
+{'f/i/state/dso': '{ "active" : 1, "code" : 1, "description" : "", "station" : "dso", "ts" : "2020-12-11T12:20:51.872Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:52.263Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:20:52.263Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:20:52.336Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:20:52.336Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:20:57.978Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:20:57.978Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:20:58.385Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:20:58.385Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:21:00.643Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:21:00.643Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:21:01.876Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:21:01.876Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:21:02.355Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:02.335Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:21:02.503Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:02.514Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:21:02.355Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:02.335Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:21:02.503Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:02.514Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:02.925Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:02.925Z" }'}
+{'f/i/nfc/ds': '{ "history" :  [  {   "code" : 800,   "ts" : "2020-12-11T12:21:04.002Z"  } ], "ts" : "2020-12-11T12:21:06.390Z", "workpiece" :  {  "id" : "04b4ae4a616080",  "state" : "PROCESSED",  "type" : "BLUE" } }'}
+{'f/i/nfc/ds': '{ "history" :  [  {   "code" : 800,   "ts" : "2020-12-11T12:21:04.002Z"  } ], "ts" : "2020-12-11T12:21:06.390Z", "workpiece" :  {  "id" : "04b4ae4a616080",  "state" : "PROCESSED",  "type" : "BLUE" } }'}
+{'f/i/state/dsi': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dsi", "ts" : "2020-12-11T12:21:06.561Z" }'}
+{'f/i/state/dso': '{ "active" : 1, "code" : 1, "description" : "", "station" : "dso", "ts" : "2020-12-11T12:21:06.585Z" }'}
+{'f/i/state/dsi': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dsi", "ts" : "2020-12-11T12:21:06.561Z" }'}
+{'f/i/state/dso': '{ "active" : 1, "code" : 1, "description" : "", "station" : "dso", "ts" : "2020-12-11T12:21:06.585Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:07.993Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:07.993Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:21:10.736Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:21:10.736Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:11.437Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:11.437Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:21:11.903Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:21:11.903Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:12.225Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:12.255Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:21:12.600Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:12.225Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:21:12.777Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:12.255Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:21:12.600Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:21:12.777Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:14.311Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:14.377Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:14.311Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:14.377Z" }'}
+{'f/i/state/dsi': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dsi", "ts" : "2020-12-11T12:21:15.208Z" }'}
+{'f/i/state/dso': '{ "active" : 1, "code" : 0, "description" : "", "station" : "dso", "ts" : "2020-12-11T12:21:15.304Z" }'}
+{'f/i/state/dsi': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dsi", "ts" : "2020-12-11T12:21:15.208Z" }'}
+{'f/i/state/dso': '{ "active" : 1, "code" : 0, "description" : "", "station" : "dso", "ts" : "2020-12-11T12:21:15.304Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:18.238Z" }'}
+{'f/i/state/vgr': '{ "active" : 1, "code" : 2, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:18.238Z" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:20.732Z" }'}
+{'f/i/order': '{ "state" : "SHIPPED", "ts" : "2020-12-11T12:21:20.760Z", "type" : "BLUE" }'}
+{'f/i/state/vgr': '{ "active" : 0, "code" : 1, "description" : "", "station" : "vgr", "target" : "dso", "ts" : "2020-12-11T12:21:20.732Z" }'}
+{'f/i/order': '{ "state" : "SHIPPED", "ts" : "2020-12-11T12:21:20.760Z", "type" : "BLUE" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:21:20.937Z" }'}
+{'f/i/state/sld': '{ "active" : 0, "code" : 1, "description" : "", "station" : "sld", "ts" : "2020-12-11T12:21:20.937Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:21:21.917Z" }'}
+{'f/i/state/mpo': '{ "active" : 0, "code" : 1, "description" : "", "station" : "mpo", "ts" : "2020-12-11T12:21:21.917Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:21:22.844Z" }'}
+{'f/i/state/dsi': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dsi", "ts" : "2020-12-11T12:21:22.794Z" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:21:22.978Z" }'}
+{'f/i/state/dso': '{ "active" : 0, "code" : 0, "description" : "", "station" : "dso", "ts" : "2020-12-11T12:21:22.997Z" }'}
+{'f/i/state/hbw': '{ "active" : 0, "code" : 1, "description" : "", "station" : "hbw", "ts" : "2020-12-11T12:21:22.844Z" }'}
+{'f/i/state/dsi': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dsi", "ts" : "2020-12-11T12:21:22.794Z" }'}
+{'f/i/order': '{ "state" : "WAITING_FOR_ORDER", "ts" : "2020-12-11T12:21:23.144Z", "type" : "BLUE" }'}
+{'f/i/order': '{ "state" : "WAITING_FOR_ORDER", "ts" : "2020-12-11T12:21:23.232Z", "type" : "BLUE" }'}
+{'f/i/stock': '{ "stockItems" :  [  {   "location" : "A1",   "workpiece" : null  },  {   "location" : "A2",   "workpiece" : null  },  {   "location" : "A3",   "workpiece" : null  },  {   "location" : "B1",   "workpiece" : null  },  {   "location" : "B2",   "workpiece" :    {    "id" : "04f8ad4a616080",    "state" : "RAW",    "type" : "WHITE"   }  },  {   "location" : "B3",   "workpiece" :    {    "id" : "042fac4a616080",    "state" : "RAW",    "type" : "RED"   }  },  {   "location" : "C1",   "workpiece" : null  },  {   "location" : "C2",   "workpiece" : null  },  {   "location" : "C3",   "workpiece" : null  } ], "ts" : "2020-12-11T12:21:22.978Z" }'}
+{'f/i/state/dsi': '{ "active" : 0, "code" : 1, "description" : "", "station" : "dsi", "ts" : "2020-12-11T12:21:23.257Z" }'}

@@ -1,0 +1,30 @@
+spring:
+  application:
+    name: stations
+server:
+  port: 8084
+
+camunda.bpm.client:
+  base-url: http://camunda:8080/engine-rest
+  worker-id: station-detector-worker
+  basic-auth:
+    username: admin
+    password: admin
+    subscriptions:
+      station-detect: # topic name of the External Service Task
+        variable-names: []
+
+mqtt:
+  broker: tcp://192.168.0.10:1883
+  user: txt
+  pwd: xtx
+  topic: f/i/state/#
+
+camunda:
+  activity:
+    mpo: mpo_activation
+    sld: sld_activation
+    hbw: hbw_activation
+    dsi: dsi_activation
+    dso: dso_activation
+    vgr: vgr_activation
