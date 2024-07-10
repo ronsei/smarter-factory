@@ -8,7 +8,7 @@
         <version>3.2.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>ch.unisg</groupId>
+    <groupId>com.example</groupId>
     <artifactId>stations</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>stations</name>
